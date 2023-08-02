@@ -1,0 +1,10 @@
+D:\CURSOS\Curso_CSharp_3_CommentHandling\bin\Debug\Curso_CSharp_3_CommentHandling.exe.config
+D:\CURSOS\Curso_CSharp_3_CommentHandling\bin\Debug\Curso_CSharp_3_CommentHandling.exe
+D:\CURSOS\Curso_CSharp_3_CommentHandling\bin\Debug\Curso_CSharp_3_CommentHandling.pdb
+D:\CURSOS\Curso_CSharp_3_CommentHandling\obj\Debug\Curso_CSharp_3_CommentHandling.csproj.AssemblyReference.cache
+D:\CURSOS\Curso_CSharp_3_CommentHandling\obj\Debug\Curso_CSharp_3_CommentHandling.csproj.SuggestedBindingRedirects.cache
+D:\CURSOS\Curso_CSharp_3_CommentHandling\obj\Debug\Curso_CSharp_3_CommentHandling.Properties.Resources.resources
+D:\CURSOS\Curso_CSharp_3_CommentHandling\obj\Debug\Curso_CSharp_3_CommentHandling.csproj.GenerateResource.cache
+D:\CURSOS\Curso_CSharp_3_CommentHandling\obj\Debug\Curso_CSharp_3_CommentHandling.csproj.CoreCompileInputs.cache
+D:\CURSOS\Curso_CSharp_3_CommentHandling\obj\Debug\Curso_CSharp_3_CommentHandling.exe
+D:\CURSOS\Curso_CSharp_3_CommentHandling\obj\Debug\Curso_CSharp_3_CommentHandling.pdb
